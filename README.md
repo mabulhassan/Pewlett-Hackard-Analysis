@@ -8,24 +8,23 @@ based on their date of birth. A few steps were done to clean up data and work wi
 ## Results
 
 - The data was performed based on several tables in an ER PostgreSQL database. The query used joins from departments, titles, employees, managers and salaries. See ERD diagram below.
-
-	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/ER_Diagram.png "Employee DB")
+	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/Resources/ER_Diagram "Employee DB")
 
 ### Retirement titles 
 
 - The analysis performed on the data indicates there is a large number of engineers and senior employees nearing the age of retirement.
 (48.6% of employees nearing retirement hold engineer title and 46.4% hold senior titles.(See pie chart and table below) 
 	
-	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/EmployeeTitle.png "Unique Titles")
-	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/employee_retirement.png "Unique Titles table count")
+	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/Resources/EmployeeTitle.png "Unique Titles")
+	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/Resources/employee_retirement.png "Unique Titles table count")
 
 ### Mentorship Eligibility
 
 - An analysis was performed based on employee seniority to determine their mentorship eligibility. Below table and chart shows that 46.4% of senior staff is eligible.
 
-	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/Queries/EmployeeEligibility.png "Mentorship Eligibility")
+	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/Resources/EmployeeEligibility.png "Mentorship Eligibility")
 	
-      ![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/Queries/mentorship_eligibility.png "Mentorship Eligibility table")
+      ![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility.png "Mentorship Eligibility table")
 	
 ## Summary
 
