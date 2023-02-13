@@ -1,6 +1,4 @@
 # Pewlett-Hackard-Analysis
-# Pewlett Hackard Analysis
-
 ## **Overview of Project**
 
 The purpose of the project is to perform an analysis of employee data for Pewlett Hackard to gain more information on the number and title of employees nearning retirment and employees eligible for mentorship
