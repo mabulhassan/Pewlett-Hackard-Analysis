@@ -7,7 +7,10 @@ based on their date of birth. A few steps were done to clean up data and work wi
 
 ## Results
 
-- The data was performed based on several tables in an ER PostgreSQL database. The query used joins from departments, titles, employees, managers and salaries. See ERD diagram below.
+- The data was performed based on several tables in an ER PostgreSQL database. The query used joins from departments, titles, employees, managers and salaries. 
+- See ERD diagram below.
+
+
 	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/Resources/ER_Diagram.png "Employee DB")
 		   
 
@@ -25,7 +28,8 @@ based on their date of birth. A few steps were done to clean up data and work wi
 
 	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/Resources/EmployeeEligibility.png "Mentorship Eligibility")
 	
-        ![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility.png "Mentorship Eligibility table")
+	
+	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility.png "Mentorship Eligibility")
 	
 ## Summary
 
