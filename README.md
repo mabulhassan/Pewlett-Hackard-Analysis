@@ -1,8 +1,7 @@
 # Pewlett-Hackard-Analysis
 ## **Overview of Project**
 
-The purpose of the project is to perform an analysis of employee data for Pewlett Hackard to gain more information on the number and title of employees nearning retirment and employees eligible for mentorship
-based on their date of birth. A few steps were done to clean up data and work with only employees that are currently employed. Employees who already retired were excluded from the dataset.
+The purpose of the project is to perform an analysis of employee data for Pewlett Hackard to gain more information on the number and title of employees nearing retirement and employees eligible for mentorship based on their date of birth. A few steps were done to clean up data and work with only employees that are currently employed. Employees who already retired were excluded from the dataset.
 
 
 ## Results
